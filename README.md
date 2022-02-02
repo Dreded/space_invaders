@@ -6,7 +6,7 @@ This is a clone of the classic arcade game, space invaders, in C++ using only a 
 - Added Sound
 - Logic Runs at 60ticks, framerate is uncapped.
 - Allow for window resize
-- Default window size is now Moitor Res - 25%
+- Default window size is now Monitor Res - 25%
 - Added Black bars when window size mismatch.
 - Colorized it
 - Added High Score
